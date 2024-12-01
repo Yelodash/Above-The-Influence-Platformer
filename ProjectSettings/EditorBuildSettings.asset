@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/#Scenes/Menus/Main Menu.unity
+    guid: d1e1f06b7bd511d49b6cb479ec6f77ca
+  - enabled: 1
+    path: Assets/#Scenes/Hub/Hub.unity
+    guid: ba4e6ff061eac8e4ab2144904ce70e57
+  - enabled: 1
+    path: Assets/#Scenes/Archived Scenes/Test Scenes/Tutorial Level.unity
+    guid: 21e00dc13af3b2e43acc45829a6501a8
+  - enabled: 1
+    path: Assets/#Scenes/Level One/Level One.unity
+    guid: 1a02913278b5ed343976ff2694ba5231
+  - enabled: 1
+    path: Assets/#Scenes/Level Two/Level Two.unity
+    guid: 624eef33ace4fdb4ebaacfd37daa1c13
+  - enabled: 1
+    path: Assets/#Scenes/Level Three/Level Three.unity
+    guid: 9f1f177c3f69a2e42aaf78fd5d3bf7d0
+  - enabled: 1
+    path: Assets/#Scenes/Archived Scenes/Test Scenes/AI Test Scene/AI Test Scene
+      1.unity
+    guid: 39db3f6557c665d42844b6f01e43d7d6
+  - enabled: 1
+    path: Assets/#Scenes/Archived Scenes/Powerup.unity
+    guid: 6bb2d310c7824dd49af47a1b7feaffaa
+  - enabled: 1
+    path: Assets/#Scenes/End/Game End.unity
+    guid: 891270f4ef102124a95c7d6762cd2f76
+  m_configObjects: {}
